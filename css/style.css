@@ -13,9 +13,9 @@
     max-width: 1200px;
 }
 
-/* .mb-cont{
+.mb-cont{
     margin-bottom: 20px;
-}*/
+}
 
 .mb{
     margin-bottom: 1em;
@@ -33,7 +33,7 @@
 
 /* HEADER */
 .header{
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 .logo{
@@ -55,7 +55,7 @@
 
 /* MAIN */
 .first-main{
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 .banner{
@@ -92,13 +92,13 @@
 }
 
 .top{
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 .left-right{
     width: 20%;
     float: left;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 .cont-img{
@@ -127,7 +127,7 @@
     width: calc(60% - 40px);
     float: left;
     margin: 0 20px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 /* FOOTER */
