@@ -132,7 +132,14 @@
 
 /* FOOTER */
 .footer{
-    background-color: rgb(133, 48, 212);
     height: 60px;
+}
 
+.footer > div{
+    text-align: center;
+    line-height: 60px;
+}
+
+span{
+    color: red;
 }
