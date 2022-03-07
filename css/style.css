@@ -82,9 +82,11 @@
 }
 
 .top{
-    background-color: #0be1f9;
-    height: 100px;
     margin-bottom: 20px;
+}
+
+.top > p{
+    color: lightgray;
 }
 
 .left-right{
